@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Marllondevj/Marllondevj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Developer from Brazil, focused on learning and building real-world web applications.
 
-Here are some ideas to get you started:
+## 🚀 Currently learning
+- Python
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Become a professional remote developer
+- Contribute to international projects
+- Deliver high-quality solutions
+
+## 📫 How to reach me
+(marllontank16@gmail.com)
